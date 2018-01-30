@@ -1,2 +1,3 @@
 需要安装vc2010以上vc环境
 32或64位安装环境需匹配
+需要添加python，vc（vcvarsall.bat）路径环境变量
